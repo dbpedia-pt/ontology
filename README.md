@@ -1,5 +1,4 @@
-# ontology
-Translation of DBpedia ontology for Portuguese
+# Translation of DBpedia ontology for Portuguese
 Tradução da ontologia do DBpedia para o Português.
 
 Se você é um nativo da língua Portuguesa, nos ajude a avaliar as traduções das propriedades do DBpedia que foram feitas de forma automática utilizando um modelo de tradução neural. 
